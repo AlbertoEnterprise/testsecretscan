@@ -1,0 +1,39 @@
+# Introduction 
+TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+
+# Getting Started
+TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
+1.	Installation process
+2.	Software dependencies
+3.	Latest releases
+4.	API references
+
+# Build and Test
+TODO: Describe and show how to build your code and run the tests. 
+
+# Contribute
+TODO: Explain how other users and developers can contribute to make your code better. 
+
+If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
+- [ASP.NET Core](https://github.com/aspnet/Home)
+- [Visual Studio Code](https://github.com/Microsoft/vscode)
+- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+
+
+sp_suscription_id = "1b8ca637-862b-4f8d-8019-e50f262d9b04"
+sp_client_secret  = "KPW8Q~hIWnKL0T1.r9bNnEsTrJ1KCsZ5E1sTkdic"
+sp_client_id     = "f47fe462-e685-4cfc-b68b-6c7fff17441a"
+sp_tenant_id     = "e13ec8d3-bd8f-4626-91e0-f2f169cb31bf"
+
+
+user_username = "usuario23"
+user_password = "123çencif/añl"
+
+Adminuser_username = "usuario23"
+Adminuser_password = "123çencif/añl"
+
+#CONFIGURACION DE LA MAQUINA VIRTUAL
+vm-test-name   = "ibonline00weupro"
+admin_password = "test123IBERCAJA!"
+vm-nic-name    = "nic-vmonline-pro-z-weu-001"
+vm-nic-ip-name = "ip-vmonline-pro-z-weu-001"
